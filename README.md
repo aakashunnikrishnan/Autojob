@@ -12,7 +12,7 @@ Application Automation: The system integrates with the application submission sy
 
 Notification and Tracking: AutoJob provides notifications to the user about the applied jobs, including success or failure notifications. It also tracks the application status for each job, allowing users to monitor their progress.
 
-## User Interface: The project includes a user interface (UI) that allows users to input their resume, view recommended job listings, and manage the application process. The UI provides an intuitive and user-friendly experience.
+User Interface: The project includes a user interface (UI) that allows users to input their resume, view recommended job listings, and manage the application process. The UI provides an intuitive and user-friendly experience.
 
 ## Installation
 Clone the repository: git clone https://github.com/your-username/autojob.git
